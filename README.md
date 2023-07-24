@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avishka Gihan</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
+
 - 🔭 I’m currently studying **Software Engineering in NSBM Green University**
 
 - 🌱 I’m currently learning **Programming languages**
