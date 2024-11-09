@@ -1,85 +1,125 @@
-# Hey there, fellow coders! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=0891B2&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Sorcerer+%F0%9F%94%AE;Code+Craftsman+%F0%9F%9B%A0;Problem-Solving+Ninja+%F0%9F%A5%B7" alt="Typing SVG" />
-</p>
-
-## 💫 The Wizard Behind The Screen
-
-Hey! I'm **Avishka Gihan**, a code-wielding warrior from Sri Lanka who transforms caffeine into scalable web applications. Currently pursuing my Software Engineering degree at NSBM University, I've mastered the ancient arts of MERN stack and the mystical powers of Next.js.
-
-```javascript
-const avishka = {
-  location: "Kadawatha, Sri Lanka 🌏",
-  currentFocus: "Crafting the Mentor School Management System 🚀",
-  skills: ["Full Stack Development", "Problem Solving", "Innovation"],
-  learningPath: "Diving deeper into Next.js dark arts 🧙‍♂️",
-  lifePhilosophy: "Transform real-world problems into elegant digital solutions"
-};
-```
-
-## 🛠️ My Weapon Arsenal
-
-<div align="center">
-
-### Frontend Sorcery
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Wizardry
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Database Magic
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Cloud Enchantments
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### DevOps Artifacts
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## 🎯 Current Side Quests
-
-- 🔭 Architecting [Mentor School Management System](http://github.com/AvishkaGihan/mentor-app.git)
-- 🌱 Leveling up my Next.js skills
-- 👯 Seeking fellow adventurers for epic coding quests
-- ⚡ Fun fact: I turn coffee into code and bugs into features!
-
-## 📊 My Battle Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaGihan&theme=react&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
-## 🌐 Connect With Me
-
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](http://avishkagihan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishkagihan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvishkaGihan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishkag18@gmail.com)
+```
+ █████╗ ██╗   ██╗██╗███████╗██╗  ██╗██╗  ██╗ █████╗ 
+██╔══██╗██║   ██║██║██╔════╝██║  ██║██║ ██╔╝██╔══██╗
+███████║██║   ██║██║███████╗███████║█████╔╝ ███████║
+██╔══██║╚██╗ ██╔╝██║╚════██║██╔══██║██╔═██╗ ██╔══██║
+██║  ██║ ╚████╔╝ ██║███████║██║  ██║██║  ██╗██║  ██║
+╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=FULL+STACK+WARLOCK+%F0%9F%94%AE;TURNING+COFFEE+INTO+CODE+SINCE+2020+%E2%98%95;BREAKING+PRODUCTION+AND+FIXING+IT+FASTER+THAN+QA+CAN+NOTICE+%F0%9F%A5%B7)](https://git.io/typing-svg)
+
+</div>
+
+# 👋 BEHOLD, A WILD DEVELOPER APPEARS! 
+
+<div align="center">
+  <img src="https://github.com/AvishkaGihan/AvishkaGihan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+## 🧙‍♂️ WHO DARES SUMMON ME?
+
+```javascript
+class FullStackWarlock extends Developer {
+  constructor() {
+    super();
+    this.name = "Avishka Gihan";
+    this.base = "Sri Lanka 🌴";
+    this.favoriteSpell = "debuggus maximus";
+    this.species = "Coffee-Powered Code Machine";
+  }
+  
+  currentQuests = {
+    epicBattle: "Building Mentor School Management System 🏰",
+    sideQuest: "Mastering the Dark Arts of Next.js 🔮",
+    dailyRitual: "Turning bugs into features ⚡",
+    questLog: "Open for legendary collaborations 🤝"
+  };
+  
+  castSpell() {
+    return "🪄 *Bugs disappear in a puff of smoke*";
+  }
+}
+```
+
+## 🎮 SKILL TREE UNLOCKED
+
+<div align="center">
+
+### ⚔️ FRONTEND ARSENAL
+![JavaScript](https://img.shields.io/badge/Javascript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black)
+![TypeScript](https://img.shields.io/badge/Typescript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black)
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=black)
+![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&color=black)
+
+### 🛡️ BACKEND FORTIFICATIONS
+![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=black)
+![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&color=black)
+![NestJS](https://img.shields.io/badge/NestJS%20-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=black)
+
+### 🗝️ DATABASE VAULTS
+![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=black)
+
+</div>
+
+## 🏆 ACHIEVEMENT STATS
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AvishkaGihan&theme=discord&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="ACHIEVEMENTS 🏆" />
+</div>
+
+## 📊 BATTLE METRICS
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="2000px" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=midnight-purple&hide_border=true&background=000000">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌟 SPECIAL ABILITIES
+```css
+⚡ Turning caffeine into code since 2020
+🔥 Bug hunting speedrun world record holder
+🎯 Can center a div without Stack Overflow
+🚀 Deploy to production on Fridays (and survive)
+🧙‍♂️ Fluent in 'copy-paste-modify' magic
+```
+
+## 🎮 MULTIPLAYER MODE
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/JOIN_MY_PARTY_🎮-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white)](http://avishkagihan.me)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_💫-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishkagihan)
+[![GitHub](https://img.shields.io/badge/VIEW_MY_QUEST_LOG_📜-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvishkaGihan)
+[![Gmail](https://img.shields.io/badge/SEND_A_RAVEN_📫-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishkag18@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AvishkaGihan&style=flat-square&color=blue" alt="Profile views"/>
   
-  *"The only way to do great work is to love what you do."* - Steve Jobs
+```
+LOADING CURRENT STATUS...
+```
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvishkaGihan&theme=react-dark&hide_border=true&background=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```
+VISITORS COUNT.EXE
+```
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AvishkaGihan&color=blueviolet&style=for-the-badge)
+
+---
+
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+
+*"In case of fire: git commit, git push, git out"* 🔥
+
 </div>
