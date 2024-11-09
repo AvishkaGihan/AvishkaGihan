@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=60&duration=3000&pause=1000&color=0051FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=180&lines=THE+STRONGEST+DEVELOPER+🔵;MASTER+OF+INFINITE+VOID+✨;HIGH+PRIEST+OF+HOLLOW+PURPLE+💜)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&color=0051FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=THE+STRONGEST+DEVELOPER+🔵;MASTER+OF+INFINITE+VOID+✨;HIGH+PRIEST+OF+HOLLOW+PURPLE+💜)](https://git.io/typing-svg)
 
 </div>
 
