@@ -1,148 +1,87 @@
+# 🚀 Welcome to the **Avishka Gihan** Universe! 🌌  
+> _"Just a developer? Nah, I'm the code-wielding, problem-slaying sorcerer of the digital realm."_ 🧙‍♂️
+
+![Banner](https://media.giphy.com/media/3oEjHV0z8QKZXkoHo0/giphy.gif)
+
+👋 **Hello, fellow earthlings (and coders from beyond)**! My name's **Avishka Gihan**, and I'm here to build web applications that don’t just work—they **BREATHE**.  
+
+🌐 **Full Stack Developer Extraordinaire | Conqueror of the MERN Stack | Next.js Voyager** 🚀
+
+---
+
+## 🌍 Where in the World is Avishka?
+- 📍 Live from: **Kadawatha, Sri Lanka** 🇱🇰
+- 🌐 **Website**: [AvishkaGihan.me](http://avishkagihan.me/)  
+- 📧 **Email**: [avishkag18@gmail.com](mailto:avishkag18@gmail.com)  
+- 🛠 Currently building: [Mentor School Management System](https://github.com/AvishkaGihan/mentor-app)
+
+---
+
+### 🚀 What Am I Doing?
+- **🛠 Making things that WORK and WOW** 🌩️
+- **📚 Learning**: Mastering the galaxy of **Next.js**  
+- **🤝 Collaborating on**: Projects where **"average"** isn’t in the vocabulary 💥  
+- **⚡ Driven by**: A passion for solving problems and breaking limits with **technology magic**
+
+---
+
+## 💼 My Arsenal of Code (aka Skills)
+
+🧑‍💻 **Languages and Frameworks I Wield with Finesse**:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFCA28?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+
+**🌌 Back-End & Databases**:  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+**🌈 Styling Magic**:  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+
+---
+
+## 🌐 Socialize with Me!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/AvishkaGihan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/avishkagihan)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/avishka.gihan.121)
+
+---
+
+## ⚔️ My Code, My Stats: 💥  
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AvishkaGihan&show_icons=true&count_private=true&title_color=FFD700&text_color=FFFFFF&bg_color=151515&hide_border=true&icon_color=FF4500&hide_title=true" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=highcontrast&hide_border=true" /></td>
+  </tr>
+</table>
+
+📈 **Commits Graph**  
+![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvishkaGihan&bg_color=000&color=FFD700&line=FF4500&point=FFFFFF&area_color=000&hide_border=true&custom_title=My%20Epic%20Coding%20Journey)
+
+---
+
+## 🏆 Featured Repositories  
+
 <div align="center">
-  
-```ascii
-                                                    ,____
-                                                    |---.\\
-                           $                        |    `'
-                           $$$                      |
-                           '$$$&&                   |
-                            '$$$$&                  |
-                             $$$$$                 /
-                              $$$$
-                               $$$
-                                $
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF6B00&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=150&lines=%F0%9F%94%B8+DATTEBAYO!+I'm+Avishka+Gihan;%F0%9F%94%B8+A+Shinobi+in+the+Digital+World!;%F0%9F%94%B8+Mastering+the+Art+of+Clean+Code)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Ninja%20Cat/Ninja%20Cat.png" width="100" />
-  <br>
-  
-[![GitHub followers](https://img.shields.io/github/followers/AvishkaGihan?logo=GitHub&style=for-the-badge&color=orange)](https://github.com/AvishkaGihan)
-[![GitHub Stars](https://img.shields.io/github/stars/AvishkaGihan?logo=github&style=for-the-badge&color=orange)](https://github.com/AvishkaGihan)
-[![Years Badge](https://badges.pufler.dev/years/AvishkaGihan?style=for-the-badge&color=orange)](https://badges.pufler.dev)
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/4WFhwSwWWEpFztKzGx/giphy.gif" width="600" />
+  <a href="https://github.com/AvishkaGihan/mentor-app">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=mentor-app&theme=highcontrast&hide_border=true" />
+  </a>
+  <a href="https://github.com/AvishkaGihan/lumina-prompt-platform">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=lumina-prompt-platform&theme=highcontrast&hide_border=true" />
+  </a>
 </div>
 
 ---
 
-<div align="center">
-  
-# 🍜 MY NINJA WAY OF CODING! 🍜
-
-</div>
-
-```js
-const AVISHKA = {
-  title: "Full Stack Developer & Code Ninja 🥷",
-  location: "Hidden Leaf Village (Kadawatha, Sri Lanka) 🍃",
-  chakraTypes: {
-    frontend: ["React ⚡", "Next.js 🌪️", "TypeScript 🌊"],
-    backend: ["Node.js 🌿", "Express 💨", "NestJS 🔥"],
-    database: ["MongoDB 📜", "PostgreSQL 🗿", "Firebase 🌋"]
-  },
-  currentMission: "Building the Mentor School Management System",
-  dailyNindo: "Write Clean Code, Debug Like a Shadow Clone!",
-  favoriteJutsu: "Multi Shadow Clone Testing"
-};
-```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="50"> 
-  
-## 🔥 CHAKRA NATURE (SKILLS) 🔥
-
-</div>
-
-<details>
-<summary>🌪️ Frontend Jutsu Arsenal</summary>
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,redux" /><br>
-  <img src="https://progress-bar.dev/90?title=React%20Mastery&color=orange&width=500" />
-  <img src="https://progress-bar.dev/85?title=Next.js%20Power&color=orange&width=500" />
-  <img src="https://progress-bar.dev/95?title=JavaScript%20Chakra&color=orange&width=500" />
-</div>
-</details>
-
-<details>
-<summary>🌊 Backend Jutsu Arsenal</summary>
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,mongodb,postgres,firebase" /><br>
-  <img src="https://progress-bar.dev/88?title=Node.js%20Sage%20Mode&color=orange&width=500" />
-  <img src="https://progress-bar.dev/92?title=Database%20Jutsu&color=orange&width=500" />
-</div>
-</details>
-
-<details>
-<summary>🌋 Development Tools</summary>
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma" /><br>
-  <img src="https://progress-bar.dev/85?title=DevOps%20Rasengan&color=orange&width=500" />
-</div>
-</details>
-
-<div align="center">
-  
-## 📊 NINJA STATS JUTSU 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=AvishkaGihan&show_icons=true&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00&border_color=FF6B00" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=dark&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" width="49%" />
-
-## 🎯 TOP SECRET SCROLLS (REPOSITORIES)
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=mentor-app&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00)](https://github.com/AvishkaGihan/mentor-app)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=lumina-prompt-platform&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00)](https://github.com/AvishkaGihan/lumina-prompt-platform)
-
-## 🎵 CURRENT TRAINING MUSIC 🎵
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff6b00)](https://github.com/kittinan/spotify-github-profile)
-
-## 🌍 FIND ME IN THE NINJA WORLD 🌍
-
-<a href="https://linkedin.com/in/avishkagihan">
-  <img src="https://img.shields.io/badge/LinkedIn-Ninja%20Network-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=FF6B00" />
-</a>
-<a href="mailto:avishkag18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Messenger%20Bird-red?style=for-the-badge&logo=gmail&logoColor=white&color=FF6B00" />
-</a>
-<a href="https://github.com/AvishkaGihan">
-  <img src="https://img.shields.io/badge/GitHub-Shadow%20Clone-gray?style=for-the-badge&logo=github&logoColor=white&color=FF6B00" />
-</a>
-
-## 👥 SHADOW CLONE COUNTER (VISITORS) 👥
-
-<img src="https://profile-counter.glitch.me/AvishkaGihan/count.svg" />
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+## 💡 Fun Fact: I Don’t Just Build, I **Create**  
+If it’s unique, challenging, or just plain **out-of-this-world**, then I’m all in!  
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="50" />
-
-### "I never go back on my word. That's my ninja way of coding!" 
-### - Avishka Gihan, Believe it! 🍜
-
-</div>
-
-<!-- Hidden Jutsu (Easter Eggs) -->
-<!--
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣶⣦⣄⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣷
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘
-  You found a hidden jutsu scroll! Your debugging power increases by 100%!
--->
+😜 Let’s make something **extraordinary** together. Drop a star ⭐, fork 🍴, or reach out! The coding cosmos awaits! 🚀
