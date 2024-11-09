@@ -1,0 +1,123 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Modified background gradient for better contrast -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A0A0A;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#1A1A1A;stop-opacity:0.95" />
+      <stop offset="50%" style="stop-color:#2C1810;stop-opacity:0.9" />
+      <stop offset="75%" style="stop-color:#1A1A1A;stop-opacity:0.95" />
+      <stop offset="100%" style="stop-color:#0A0A0A;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Refined glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Enhanced glow for text -->
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Particle effect -->
+    <radialGradient id="particleGrad">
+      <stop offset="0%" stop-color="#FFA500"/>
+      <stop offset="100%" stop-color="#FFA500" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Kunai definition -->
+    <symbol id="kunai" viewBox="0 0 40 0">
+      <path d="M0,5 L30,5 L40,0 L30,5 L40,10 L30,5" fill="#E0E0E0"/>
+    </symbol>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGradient)">
+    <animate attributeName="opacity" values="0.95;1;0.95" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Decorative lines -->
+  <path d="M0,20 L800,20" stroke="#FFA500" stroke-width="0.5" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,180 L800,180" stroke="#FFA500" stroke-width="0.5" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Ninja stars with enhanced visibility -->
+  <g filter="url(#glow)">
+    <!-- Star 1 -->
+    <path d="M50,50 l15,-15 l15,15 l-15,15 z M50,50 l0,-21 l30,21 l-30,0 z" fill="#FFA500">
+      <animateTransform attributeName="transform" type="rotate" 
+        from="0 65 65" to="360 65 65" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.8;0.6" dur="2s" repeatCount="indefinite"/>
+    </path>
+    
+    <!-- Star 2 -->
+    <path d="M700,150 l15,-15 l15,15 l-15,15 z M700,150 l0,-21 l30,21 l-30,0 z" fill="#FFA500">
+      <animateTransform attributeName="transform" type="rotate" 
+        from="360 715 165" to="0 715 165" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0.6;0.8" dur="2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Flying kunai -->
+  <use href="#kunai" x="650" y="40" width="40" height="10">
+    <animateTransform attributeName="transform" type="translate"
+      values="-700,0; 0,0; -700,0" dur="3s" repeatCount="indefinite"/>
+  </use>
+
+  <!-- Decorative kanji symbols with improved visibility -->
+  <text x="50" y="100" font-family="Arial, sans-serif" font-size="24" fill="#FFA500" opacity="0.5" filter="url(#textGlow)">
+    忍
+    <animate attributeName="opacity" values="0.4;0.6;0.4" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="730" y="100" font-family="Arial, sans-serif" font-size="24" fill="#FFA500" opacity="0.5" filter="url(#textGlow)">
+    道
+    <animate attributeName="opacity" values="0.6;0.4;0.6" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Main title with improved readability -->
+  <g filter="url(#textGlow)">
+    <!-- Text shadow for better contrast -->
+    <text x="400" y="80" font-family="Arial, sans-serif" font-size="48" fill="#000000" text-anchor="middle" opacity="0.5">
+      忍者 Developer: Avishka Gihan
+    </text>
+    <!-- Main text -->
+    <text x="400" y="80" font-family="Arial, sans-serif" font-size="48" fill="#FFD700" text-anchor="middle">
+      忍者 Developer: Avishka Gihan
+      <animate attributeName="fill" values="#FFD700;#FFA500;#FFD700" dur="4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Subtitle with improved contrast -->
+  <g filter="url(#textGlow)">
+    <!-- Text shadow -->
+    <text x="400" y="120" font-family="Arial, sans-serif" font-size="24" fill="#000000" text-anchor="middle" opacity="0.5">
+      The Way of the Full Stack Shinobi
+    </text>
+    <!-- Main text -->
+    <text x="400" y="120" font-family="Arial, sans-serif" font-size="24" fill="#FFFFFF" text-anchor="middle">
+      The Way of the Full Stack Shinobi
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Energy particles with reduced opacity -->
+  <circle cx="100" cy="100" r="2" fill="url(#particleGrad)" opacity="0.4">
+    <animate attributeName="cx" values="0;800;0" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="100;50;100" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="100" r="2" fill="url(#particleGrad)" opacity="0.4">
+    <animate attributeName="cx" values="800;0;800" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="100;150;100" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
