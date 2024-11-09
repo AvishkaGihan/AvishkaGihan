@@ -1,84 +1,121 @@
-# Hey there, fellow coders! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=0891B2&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Sorcerer+%F0%9F%94%AE;Code+Craftsman+%F0%9F%9B%A0;Problem-Solving+Ninja+%F0%9F%A5%B7" alt="Typing SVG" />
-</div>
-
-## 💫 The Wizard Behind The Screen
-
-Hey! I'm **Avishka Gihan**, a code-wielding warrior from Sri Lanka who transforms caffeine into scalable web applications. Currently pursuing my Software Engineering degree at NSBM University, I've mastered the ancient arts of MERN stack and the mystical powers of Next.js.
-
-```javascript
-const avishka = {
-  location: "Kadawatha, Sri Lanka 🌏",
-  currentFocus: "Crafting the Mentor School Management System 🚀",
-  skills: ["Full Stack Development", "Problem Solving", "Innovation"],
-  learningPath: "Diving deeper into Next.js dark arts 🧙‍♂️",
-  lifePhilosophy: "Transform real-world problems into elegant digital solutions"
-};
-```
-
-## 🛠️ My Weapon Arsenal
-
-<div align="center">
-
-### Frontend Sorcery
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Wizardry
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Database Magic
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Cloud Enchantments
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### DevOps Artifacts
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## 🎯 Current Side Quests
-
-- 🔭 Architecting [Mentor School Management System](http://github.com/AvishkaGihan/mentor-app.git)
-- 🌱 Leveling up my Next.js skills
-- 👯 Seeking fellow adventurers for epic coding quests
-- ⚡ Fun fact: I turn coffee into code and bugs into features!
-
-## 📊 My Battle Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaGihan&theme=react&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
-## 🌐 Connect With Me
-
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](http://avishkagihan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishkagihan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvishkaGihan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishkag18@gmail.com)
+```
+██████╗  ██████╗ ██╗    ██╗███████╗██████╗     ██╗     ███████╗██╗   ██╗███████╗██╗         ∞
+██╔══██╗██╔═══██╗██║    ██║██╔════╝██╔══██╗    ██║     ██╔════╝██║   ██║██╔════╝██║     💀
+██████╔╝██║   ██║██║ █╗ ██║█████╗  ██████╔╝    ██║     █████╗  ██║   ██║█████╗  ██║    ⚔️ 
+██╔═══╝ ██║   ██║██║███╗██║██╔══╝  ██╔══██╗    ██║     ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║   🔮
+██║     ╚██████╔╝╚███╔███╔╝███████╗██║  ██║    ███████╗███████╗ ╚████╔╝ ███████╗███████╗
+╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝    ╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&weight=700&size=50&duration=3000&pause=1000&color=722F37&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=ARCHMAGE+OF+THE+DIGITAL+REALM+🔥;WIELDER+OF+THE+SACRED+CODE+FLAMES+⚡;BREAKER+OF+PRODUCTION+AND+MASTER+OF+CHAOS+💀)](https://git.io/typing-svg)
+
+</div>
+
+# ⚔️ MORTAL, YOU DARE ENTER MY DOMAIN? 
+
+## 🧙‍♂️ BEHOLD, THE CHRONICLES OF POWER!
+
+```javascript
+class ElderlichOverlord extends CosmicEntity {
+  constructor() {
+    super();
+    this.trueName = "Avishka Gihan";
+    this.sanctuary = "The Mystical Isles of Sri Lanka 🏝️";
+    this.cosmicAlignment = "Chaotic Good";
+    this.powerSource = "☕ Arcane Bean Juice (Coffee LVL 999)";
+  }
+  
+  currentCrusades = {
+    legendaryQuest: "Forging the Mentor School Crystal Matrix 🏰",
+    forbiddenStudies: "Channeling the Primordial Forces of Next.js 🌌",
+    dailyRitual: "Transmuting Chaos into Order ⚡",
+    prophecy: "Seeking Legendary Warriors for Epic Raids 🤝"
+  };
+  
+  summonUltimate() {
+    return "🪄 *Reality warps, time bends, and all bugs PERISH IN FLAME* 🔥";
+  }
+}
+```
+
+## 🎯 ARSENAL OF INFINITE POWER
+
+<div align="center">
+
+### 🗡️ WEAPONS OF MASS CREATION
+![JavaScript](https://img.shields.io/badge/Javascript_Destruction_Lv.99-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black)
+![TypeScript](https://img.shields.io/badge/Typescript_Sorcery_Lv.MAX-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black)
+![React](https://img.shields.io/badge/React_Necromancy_Lv.∞-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=black)
+![Next.js](https://img.shields.io/badge/Next.js_Time_Manipulation-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&color=black)
+
+### 🛡️ DEFENSIVE DARK ARTS
+![Node.js](https://img.shields.io/badge/Node.js_Battle_Magic-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=black)
+![Express](https://img.shields.io/badge/Express_Lightning_Storm-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&color=black)
+![NestJS](https://img.shields.io/badge/NestJS_Blood_Magic-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=black)
+
+### ⚱️ FORBIDDEN KNOWLEDGE REPOSITORIES
+![MongoDB](https://img.shields.io/badge/MongoDB_Soul_Storage-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Ancient_Scrolls-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=black)
+
+</div>
+
+## 💀 LEGENDARY ACHIEVEMENTS
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AvishkaGihan&theme=dracula&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="SPOILS OF WAR 💀" />
+</div>
+
+## ⚔️ BATTLE STATISTICS
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="2000px" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=midnight-purple&hide_border=true&background=000000">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌟 MYTHICAL POWERS
+```css
+⚡ Able to summon working code from the void without documentation
+🔥 Can debug cursed code by merely glancing at it
+🎯 Centers divs through sheer force of will
+🚀 Deploys to production during mercury retrograde
+🧙‍♂️ Has memorized the entire Stack Overflow grimoire
+```
+
+## 🎮 SUMMON THE ANCIENT ONE
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/ENTER_MY_REALM_IF_YOU_DARE_💀-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white)](http://avishkagihan.me)
+[![LinkedIn](https://img.shields.io/badge/PLEDGE_YOUR_ALLEGIANCE_⚔️-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishkagihan)
+[![GitHub](https://img.shields.io/badge/WITNESS_MY_DARK_DEEDS_📜-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvishkaGihan)
+[![Gmail](https://img.shields.io/badge/SUMMON_ME_VIA_DARK_RITUAL_📫-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishkag18@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AvishkaGihan&style=flat-square&color=blue" alt="Profile views"/>
   
-  *"The only way to do great work is to love what you do."* - Steve Jobs
+```
+CHANNELING ETHEREAL ENERGIES...
+```
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvishkaGihan&theme=dracula&hide_border=true&background=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```
+SOULS CONSUMED.EXE
+```
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AvishkaGihan&color=800080&style=for-the-badge)
+
+---
+
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Scrolls of Humor" />
+
+*"When the servers burn: git commit -m 'final message to the world', git push, git reincarnate"* 🔥
+
 </div>
