@@ -108,17 +108,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AvishkaGihan&color=orange&style=flat-square&label=Ninja+Profile+Views)
 
-```ascii
-  ___________________________
- |                           |
- |    Available for Epic     |
- |    Coding Adventures!     |
- |___________________________|
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
 
 </div>
