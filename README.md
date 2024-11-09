@@ -1,126 +1,88 @@
+# 忍者 Developer: Avishka Gihan 
+### *The Way of the Full Stack Shinobi* 🍥
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Ninja+Way!;Dattebayo!;Full+Stack+Developer;MERN+Stack+Specialist&center=true&size=30)
+
+> "I'm not gonna run away and I never go back on my word, that is my nindo: my ninja way!" - And my code way too!
+
+## 🥷 Ninja Registration
+- **Ninja Rank**: Full Stack Developer
+- **Village**: Kadawatha, Sri Lanka
+- **Specialization**: Scalable and Responsive Web Applications
+- **Current Mission**: [Mentor School Management System](http://github.com/AvishkaGihan/mentor-app.git)
+- **Academy**: NSBM University (Software Engineering)
+- **Chakra Nature**: MERN Stack & Next.js
+
+## 📜 Ninja Scroll (Contact Info)
+- 🌐 [Secret Scrolls (Portfolio)](http://avishkagihan.me/)
+- 📫 [Send a Messenger Bird](mailto:avishkag18@gmail.com)
+- 🎯 Open for collaboration on innovative jutsu (projects)
+
+## 🔮 Current Training
+- 🌪️ Mastering the Next.js Rasengan
+- 💫 Developing new jutsu in full stack development
+- ⚡ Channeling chakra into solving real-world problems through technology
+
+## 🎴 Ninja Tools (Skills)
+
+### Frontend Jutsu
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React - Shadow Clone Jutsu"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" title="Next.js - Time-Space Jutsu"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript - Sharingan"/>
+<!-- [Rest of the frontend skills icons] -->
+</p>
+
+### Backend Jutsu
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js - Nature Transformation"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express - Swift Release"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB - Scroll Sealing"/>
+<!-- [Rest of the backend skills icons] -->
+</p>
+
+### Forbidden Jutsu (Advanced Tools)
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker - Summoning Jutsu"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" title="AWS - Cloud Style Jutsu"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase - Fire Style"/>
+</p>
+
+## 🎭 Ninja Alliance (Socials)
+<p align="left">
+<a href="https://www.linkedin.com/in/avishkagihan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
+<a href="https://www.github.com/AvishkaGihan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
+<a href="https://www.facebook.com/avishka.gihan.121" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/></a>
+</p>
+
+## 📊 Ninja Stats
+
 <div align="center">
-  
-```
-█████╗ ██╗   ██╗██╗███████╗██╗  ██╗██╗  ██╗ █████╗      ██████╗ ██╗██╗  ██╗ █████╗ ███╗   ██╗
-██╔══██╗██║   ██║██║██╔════╝██║  ██║██║ ██╔╝██╔══██╗    ██╔════╝ ██║██║  ██║██╔══██╗████╗  ██║
-███████║██║   ██║██║███████╗███████║█████╔╝ ███████║    ██║  ███╗██║███████║███████║██╔██╗ ██║
-██╔══██║╚██╗ ██╔╝██║╚════██║██╔══██║██╔═██╗ ██╔══██║    ██║   ██║██║██╔══██║██╔══██║██║╚██╗██║
-██║  ██║ ╚████╔╝ ██║███████║██║  ██║██║  ██╗██║  ██║    ╚██████╔╝██║██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&color=0051FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=THE+STRONGEST+DEVELOPER+🔵;MASTER+OF+INFINITE+VOID+✨;HIGH+PRIEST+OF+HOLLOW+PURPLE+💜)](https://git.io/typing-svg)
+![Ninja Rank Stats](https://github-readme-stats.vercel.app/api?username=AvishkaGihan&show_icons=true&hide=&count_private=true&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&show_icons=true)
 
+![Mission Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&stroke=ffffff&background=000000&ring=FF8C00&fire=FF4500&currStreakNum=ffffff&currStreakLabel=FF8C00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+
+![Jutsu Proficiency](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaGihan&langs_count=10&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Jutsu%20Types)
 </div>
 
-# 🔵 BEHOLD THE LIMITLESS DEVELOPER
+## 🗜️ Secret Scrolls (Top Repositories)
 
-## ✨ THROUGHOUT HEAVEN AND EARTH, I ALONE AM THE HONORED ONE!
-
-```javascript
-class InfinityDev extends JujutsuSorcerer {
-  constructor() {
-    super();
-    this.trueName = "Avishka Gihan";
-    this.domain = "Infinite Void ∞";
-    this.power = "Limitless";
-    this.technique = "Six Eyes 👁️👁️";
-    this.catchphrase = "Being the strongest is pretty boring, you know?";
-  }
-  
-  currentTechniques = {
-    infinity: "Neutralizing Production Bugs with Infinite Convergence 🔵",
-    hollowPurple: "Merging Code with Red, Blue & Infinity 💜",
-    domainExpansion: "Unlimited Void: Debug Paradise ✨",
-    sixEyes: "Analyzing System Architecture at Infinite Precision 👁️👁️",
-    redLimit: "Destroying Legacy Code 🔴",
-    blueLimit: "Attracting Perfect Solutions 🔷"
-  };
-  
-  unleashPower() {
-    return "💫 *Don't worry, I'm the strongest... Remember?* 🔵";
-  }
-}
-```
-
-## 💫 TECHNIQUES OF THE STRONGEST
-
-<div align="center">
-
-### 🔵 INFINITY ARSENAL
-![JavaScript](https://img.shields.io/badge/Limitless_JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=0051ff)
-![TypeScript](https://img.shields.io/badge/Six_Eyes_TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=0051ff)
-![React](https://img.shields.io/badge/Hollow_Purple_React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=0051ff)
-![Next.js](https://img.shields.io/badge/Infinity_Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&color=0051ff)
-
-### ✨ DOMAIN EXPANSION
-![Node.js](https://img.shields.io/badge/Limitless_Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=6366f1)
-![Express](https://img.shields.io/badge/Infinity_Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&color=6366f1)
-![NestJS](https://img.shields.io/badge/Reversed_NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=6366f1)
-
-### 👁️ CURSED TECHNIQUES
-![MongoDB](https://img.shields.io/badge/Infinite_MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4f46e5)
-![PostgreSQL](https://img.shields.io/badge/Hollow_PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4f46e5)
-
-</div>
-
-## 💜 DOMAIN ACHIEVEMENTS
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvishkaGihan&theme=algolia&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="INFINITY TROPHIES ✨" />
-</div>
-
-## ✨ CURSED ENERGY STATISTICS
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="2000px" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=tokyonight&hide_border=true&background=000000">
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🔵 LIMITLESS ABILITIES
-```css
-✨ "Infinity" - Stops all bugs at convergence of ∞
-👁️ "Six Eyes" - Sees through system complexity
-💜 "Hollow Purple" - Imaginary mass of perfect code
-🔴 "Red" - Repels all production issues
-🔷 "Blue" - Attracts optimal solutions
-⚡ "Reverse Cursed Technique" - Auto-heals broken code
-```
-
-## 🎭 DOMAIN EXPANSION: UNLIMITED VOID
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/ENTER_THE_DOMAIN_EXPANSION_🔵-0051ff?style=for-the-badge&logo=About.me&logoColor=white)](http://avishkagihan.me)
-[![LinkedIn](https://img.shields.io/badge/WITNESS_INFINITE_VOID_✨-0051ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishkagihan)
-[![GitHub](https://img.shields.io/badge/UNLEASH_HOLLOW_PURPLE_💜-0051ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvishkaGihan)
-[![Gmail](https://img.shields.io/badge/SUMMON_THE_STRONGEST_👁️-0051ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishkag18@gmail.com)
-
+<div width="100%" align="center">
+  <a href="https://github.com/AvishkaGihan/mentor-app">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=mentor-app&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/AvishkaGihan/lumina-prompt-platform">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=lumina-prompt-platform&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&locale=en" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  
-```
-I̶N̶F̶I̶N̶I̶T̶E̶ ̶V̶O̶I̶D̶:̶ ̶D̶O̶M̶A̶I̶N̶ ̶E̶X̶P̶A̶N̶S̶I̶O̶N̶
-```
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvishkaGihan&theme=react-dark&hide_border=true&background=000000&color=0051ff&line=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```
-"But you know, I'm the honored one." - Gojo Satoru
-```
-  
-![Profile Views](https://komarev.com/ghpvc/?username=AvishkaGihan&color=0051ff&style=for-the-badge)
+*"In the world of code, those who break the rules are scum, but those who abandon their teammates are worse than scum!"*
 
----
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Infinity Jokes" />
-
-*"Even if someone else is stronger than me in the future... 
-Right now, I am the strongest."* 🔵
+[![Profile Views](https://komarev.com/ghpvc/?username=AvishkaGihan&color=orange&style=flat-square&label=Profile+Views)](https://github.com/AvishkaGihan)
 
 </div>
