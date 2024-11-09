@@ -1,88 +1,120 @@
-# 忍者 Developer: Avishka Gihan 
+<div align="center">
+
+# 忍者 Developer: Avishka Gihan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spiral%20Shell.png" alt="Spiral Shell" width="25" height="25" />
+
+[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" />](http://avishkagihan.me/)
+[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" />](mailto:avishkag18@gmail.com)
+[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="25" height="25" />](https://www.linkedin.com/in/avishkagihan)
+[![GitHub followers](https://img.shields.io/github/followers/AvishkaGihan?label=Follow&style=social)](https://github.com/AvishkaGihan)
+
 ### *The Way of the Full Stack Shinobi* 🍥
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Ninja+Way!;Dattebayo!;Full+Stack+Developer;MERN+Stack+Specialist&center=true&size=30)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Ninja+Way!;Dattebayo!;Full+Stack+Developer;MERN+Stack+Specialist&center=true&size=30&color=FF8C00&background=000000)](https://git.io/typing-svg)
 
-> "I'm not gonna run away and I never go back on my word, that is my nindo: my ninja way!" - And my code way too!
+![Naruto Banner](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Ninja.png)
 
-## 🥷 Ninja Registration
-- **Ninja Rank**: Full Stack Developer
-- **Village**: Kadawatha, Sri Lanka
-- **Specialization**: Scalable and Responsive Web Applications
-- **Current Mission**: [Mentor School Management System](http://github.com/AvishkaGihan/mentor-app.git)
-- **Academy**: NSBM University (Software Engineering)
-- **Chakra Nature**: MERN Stack & Next.js
+</div>
 
-## 📜 Ninja Scroll (Contact Info)
-- 🌐 [Secret Scrolls (Portfolio)](http://avishkagihan.me/)
-- 📫 [Send a Messenger Bird](mailto:avishkag18@gmail.com)
-- 🎯 Open for collaboration on innovative jutsu (projects)
+> "Code runs in my veins, and debug prints are my shadow clones!" - My Nindo 🥷
 
-## 🔮 Current Training
-- 🌪️ Mastering the Next.js Rasengan
-- 💫 Developing new jutsu in full stack development
-- ⚡ Channeling chakra into solving real-world problems through technology
+<details>
+<summary>📜 Ninja Registration Details</summary>
 
-## 🎴 Ninja Tools (Skills)
+## 🎭 Shinobi Identity
+- **Ninja ID**: Full Stack Developer #4242
+- **Village**: Hidden Leaf of Kadawatha, Sri Lanka 🍃
+- **Clan Specialty**: Scalable and Responsive Web Applications
+- **Current S-Rank Mission**: [Mentor School Management System](http://github.com/AvishkaGihan/mentor-app.git)
+- **Training Ground**: NSBM University (Software Engineering)
+- **Chakra Affinities**: MERN Stack & Next.js
 
-### Frontend Jutsu
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React - Shadow Clone Jutsu"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" title="Next.js - Time-Space Jutsu"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript - Sharingan"/>
-<!-- [Rest of the frontend skills icons] -->
-</p>
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+</details>
 
-### Backend Jutsu
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js - Nature Transformation"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express - Swift Release"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB - Scroll Sealing"/>
-<!-- [Rest of the backend skills icons] -->
-</p>
+## 🔮 Jutsu Mastery Progress
+```diff
++ Mastering the Next.js Rasengan             [==========>     ] 80%
++ Developing Full Stack Shadow Clone Jutsu    [============>   ] 85%
++ Chakra Control (Clean Code)                [==============> ] 90%
+! Learning Cloud Style: AWS Release          [=======>        ] 60%
+```
 
-### Forbidden Jutsu (Advanced Tools)
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker - Summoning Jutsu"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" title="AWS - Cloud Style Jutsu"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase - Fire Style"/>
-</p>
+## 🎴 Arsenal of Jutsu (Skills)
 
-## 🎭 Ninja Alliance (Socials)
-<p align="left">
-<a href="https://www.linkedin.com/in/avishkagihan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
-<a href="https://www.github.com/AvishkaGihan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
-<a href="https://www.facebook.com/avishka.gihan.121" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/></a>
-</p>
+<details>
+<summary>💫 Frontend Jutsu (Click to reveal)</summary>
 
-## 📊 Ninja Stats
+### Basic Chakra Control
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Advanced Techniques
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+</details>
+
+<details>
+<summary>⚡ Backend Jutsu (Click to reveal)</summary>
+
+### Chakra Control Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</details>
+
+<details>
+<summary>🌪 Forbidden Jutsu (Click to reveal)</summary>
+
+### Legendary Techniques
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</details>
+
+## 📊 Battle Statistics
 
 <div align="center">
 
-![Ninja Rank Stats](https://github-readme-stats.vercel.app/api?username=AvishkaGihan&show_icons=true&hide=&count_private=true&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&show_icons=true)
+<img src="https://github-profile-trophy.vercel.app/?username=AvishkaGihan&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"/>
 
-![Mission Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&stroke=ffffff&background=000000&ring=FF8C00&fire=FF4500&currStreakNum=ffffff&currStreakLabel=FF8C00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![Ninja Rank Stats](https://github-readme-stats.vercel.app/api?username=AvishkaGihan&show_icons=true&hide=&count_private=true&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&show_icons=true&theme=radical)
 
-![Jutsu Proficiency](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaGihan&langs_count=10&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Jutsu%20Types)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&stroke=ffffff&background=000000&ring=FF8C00&fire=FF4500&currStreakNum=ffffff&currStreakLabel=FF8C00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+
 </div>
 
-## 🗜️ Secret Scrolls (Top Repositories)
+## 🎯 Latest Missions (Projects)
 
-<div width="100%" align="center">
+<div align="center">
   <a href="https://github.com/AvishkaGihan/mentor-app">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=mentor-app&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=mentor-app&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&locale=en" width="49%" />
   </a>
   <a href="https://github.com/AvishkaGihan/lumina-prompt-platform">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=lumina-prompt-platform&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=lumina-prompt-platform&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=000000&hide_border=true&locale=en" width="49%" />
   </a>
+</div>
+
+## 🌟 Ninja Achievements
+<div align="center">
+
+![Achievement](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvishkaGihan&theme=monokai)
+
+[![An image of @avishkagihan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avishkagihan)](https://holopin.io/@avishkagihan)
+
 </div>
 
 ---
 
 <div align="center">
 
-*"In the world of code, those who break the rules are scum, but those who abandon their teammates are worse than scum!"*
+### "The code bug doesn't hit you until after you deploy!" - Developer Proverb
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AvishkaGihan&color=orange&style=flat-square&label=Profile+Views)](https://github.com/AvishkaGihan)
+![Snake animation](https://github.com/AvishkaGihan/AvishkaGihan/blob/output/github-contribution-grid-snake-dark.svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AvishkaGihan&color=orange&style=flat-square&label=Ninja+Profile+Views)](https://github.com/AvishkaGihan)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
