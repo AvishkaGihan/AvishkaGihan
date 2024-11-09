@@ -1,102 +1,97 @@
 <div align="center">
   
 ```
- ▄████▄   ▒█████    ██████  ███▄ ▄███▓ ██▓ ▄████▄      ▄▄▄█████▓▓██   ██▓ ██▀███   ▄▄▄       ███▄    █  ▄▄▄█████▓
-▒██▀ ▀█  ▒██▒  ██▒▒██    ▒ ▓██▒▀█▀ ██▒▓██▒▒██▀ ▀█      ▓  ██▒ ▓▒ ▒██  ██▒▓██ ▒ ██▒▒████▄     ██ ▀█   █  ▓  ██▒ ▓▒
-▒▓█    ▄ ▒██░  ██▒░ ▓██▄   ▓██    ▓██░▒██▒▒▓█    ▄     ▒ ▓██░ ▒░  ▒██ ██░▓██ ░▄█ ▒▒██  ▀█▄  ▓██  ▀█ ██▒ ▒ ▓██░ ▒░
-▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒▒██    ▒██ ░██░▒▓▓▄ ▄██▒    ░ ▓██▓ ░   ░ ▐██▓░▒██▀▀█▄  ░██▄▄▄▄██ ▓██▒  ▐▌██▒ ░ ▓██▓ ░ 
-▒ ▓███▀ ░░ ████▓▒░▒██████▒▒▒██▒   ░██▒░██░▒ ▓███▀ ░      ▒██▒ ░   ░ ██▒▓░░██▓ ▒██▒ ▓█   ▓██▒▒██░   ▓██░   ▒██▒ ░ 
-░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░░ ▒░   ░  ░░▓  ░ ░▒ ▒  ░      ▒ ░░      ██▒▒▒ ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░ ▒░   ▒ ▒    ▒ ░░   
-  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░░  ░      ░ ▒ ░  ░  ▒           ░      ▓██ ░▒░   ░▒ ░ ▒░  ▒   ▒▒ ░░ ░░   ░ ▒░     ░    
-░        ░ ░ ░ ▒  ░  ░  ░  ░      ░    ▒ ░░              ░        ▒ ▒ ░░    ░░   ░   ░   ▒      ░   ░ ░    ░      
-░ ░          ░ ░        ░         ░    ░  ░ ░                      ░ ░        ░           ░  ░         ░           
-░                                         ░                         ░ ░                                              
+ ▄████▄   ▒█████    ██████  ███▄ ▄███▓ ██▓ ▄████▄      ██▓ ███▄    █   █████▒██▓ ███▄    █  ██▓▄▄▄█████▓▓██   ██▓
+▒██▀ ▀█  ▒██▒  ██▒▒██    ▒ ▓██▒▀█▀ ██▒▓██▒▒██▀ ▀█     ▓██▒ ██ ▀█   █ ▓██   ▒▓██▒ ██ ▀█   █ ▓██▒▓  ██▒ ▓▒ ▒██  ██▒
+▒▓█    ▄ ▒██░  ██▒░ ▓██▄   ▓██    ▓██░▒██▒▒▓█    ▄    ▒██▒▓██  ▀█ ██▒▒████ ░▒██▒▓██  ▀█ ██▒▒██▒▒ ▓██░ ▒░  ▒██ ██░
+▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒▒██    ▒██ ░██░▒▓▓▄ ▄██▒   ░██░▓██▒  ▐▌██▒░▓█▒  ░░██░▓██▒  ▐▌██▒░██░░ ▓██▓ ░   ░ ▐██▓░
+▒ ▓███▀ ░░ ████▓▒░▒██████▒▒▒██▒   ░██▒░██░▒ ▓███▀ ░   ░██░▒██░   ▓██░░▒█░   ░██░▒██░   ▓██░░██░  ▒██▒ ░   ░ ██▒▓░
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nosifer&weight=800&size=65&duration=3000&pause=1000&color=800000&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=ELDER+GOD+OF+THE+VOID+👁️;DESTROYER+OF+PRODUCTION+REALMS+⛧;HIGH+PRIEST+OF+THE+BINARY+CULT+𖤐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nosifer&weight=800&size=65&duration=3000&pause=1000&color=0051ff&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=THE+STRONGEST+DEVELOPER+🔵;MASTER+OF+INFINITE+VOID+✨;HIGH+PRIEST+OF+HOLLOW+PURPLE+💜)](https://git.io/typing-svg)
 
 </div>
 
-# 👁️ THOU HAST ENTERED THE REALM OF MADNESS
+# 🔵 BEHOLD THE LIMITLESS DEVELOPER
 
-## ⛧ GAZE UPON MY ELDRITCH FORM, MORTAL!
+## ✨ THE STRONGEST THERE IS, THE STRONGEST THERE WAS, THE STRONGEST THERE WILL BE!
 
 ```javascript
-class CosmicHorror extends ElderGod {
+class InfinityDev extends JujutsuSorcerer {
   constructor() {
     super();
-    this.trueName = "A̸v̷i̶s̷h̴k̷a̵ ̶G̶i̸h̵a̷n̴";
-    this.domain = "The Cursed Isles of S̸r̸i̸ ̴L̵a̴n̵k̴a̴ 🌀";
-    this.age = "∞ + 3 cosmic cycles";
-    this.essence = "☕ B̸̘̄l̷̩̄a̷͚͌c̷̱̈́k̷̙̽ ̶̱͑H̵͚̏o̵̺̎l̷̥͐e̷͉̐ ̶͇̒Ḃ̷̜r̶͉̎e̶̲̐w̷͈̑";
+    this.trueName = "A̶v̶i̶s̶h̶k̶a̶ ̶G̶i̶h̶a̶n̶";
+    this.domain = "Infinite Void ∞";
+    this.power = "Limitless";
+    this.technique = "Six Eyes 👁️👁️";
   }
   
-  currentRituals = {
-    grandSummoning: "Corrupting the Mentor School Dimension 👁️",
-    forbiddenKnowledge: "Binding Next.js to My Will 🌌",
-    dailySacrifice: "Converting Souls into Code ⛧",
-    prophecy: "Seeking Fellow Cultists for Cosmic Raids 𖤐"
+  currentTechniques = {
+    infinity: "Neutralizing Production Bugs 🔵",
+    hollowPurple: "Merging Code with Limitless Power 💜",
+    domainExpansion: "Unlimited Void: Debug Paradise ✨",
+    sixEyes: "Analyzing System Architecture 👁️👁️"
   };
   
-  unleashChaos() {
-    return "👁️ *R̸̨̦͇̖̪̫̘̖̫̍͌̅͋͊͂͜͝͝E̵̡͕̞͍͍̗̾͑͒͊̃̒̃̎̀̚A̷̧̨̺̫͍̭͕̦̬̾̽̎̊̑̂̄̊̀L̶̨͔̩͖̥̰̣̣̆͗̽̑̃͒I̷͉̤͌̈́̄͠T̸̹̙͓̖͉̘̼̍͊̀̈̊͝Ỹ̷̡̭̗̼͎̠̯͠ ̶̛̱̼̙̇̈́̓̓͆͘U̴̢͓͖̮̱̼̻̯̓̑̎̒͗̂͠N̸̛̲͎̱̱̯̍̅̿̾̓̐̚R̵̨̨͙͕͎͓̱̰̀̎̔̑̌̆̈͜A̶̛̱̣͒̾̍͌͝V̵̢͍͈̘͇̹͈̗̓̌͆̈́̑̓̀͜Ę̷̲̫̮̾̆̂̈́̓̊̾͘͝L̵̨̨̞̺͚͍̣̗̏̈́̈̀̃͋̇͠S̷̼̥̺̣͈̺̈́̊̅̿̏͒̅̍͝* 💀";
+  unleashPower() {
+    return "💫 *Y̶O̵U̶'̸R̷E̶ ̵W̶E̴A̶K̷.̸ ̴T̷H̵A̴T̶'̸S̷ ̶W̶H̷Y̶ ̷Y̴O̸U̴ ̸L̷O̵S̵T̴.̷* 🔵";
   }
 }
 ```
 
-## 🌌 ARSENAL OF THE OLD ONES
+## 💫 TECHNIQUES OF THE STRONGEST
 
 <div align="center">
 
-### 💀 WEAPONS OF MASS EXTINCTION
-![JavaScript](https://img.shields.io/badge/Javascript_Apocalypse_LV.666-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black)
-![TypeScript](https://img.shields.io/badge/Typescript_Dark_Magic_LV.∞-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black)
-![React](https://img.shields.io/badge/React_Soul_Harvesting_LV.◊-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=black)
-![Next.js](https://img.shields.io/badge/Next.js_Reality_Warping-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&color=black)
+### 🔵 INFINITY ARSENAL
+![JavaScript](https://img.shields.io/badge/Limitless_JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=000066)
+![TypeScript](https://img.shields.io/badge/Six_Eyes_TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=000066)
+![React](https://img.shields.io/badge/Hollow_Purple_React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=000066)
+![Next.js](https://img.shields.io/badge/Infinity_Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&color=000066)
 
-### ⛧ ELDRITCH INCANTATIONS
-![Node.js](https://img.shields.io/badge/Node.js_Void_Magic-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=black)
-![Express](https://img.shields.io/badge/Express_Mind_Control-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&color=black)
-![NestJS](https://img.shields.io/badge/NestJS_Soul_Binding-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=black)
+### ✨ DOMAIN EXPANSION
+![Node.js](https://img.shields.io/badge/Limitless_Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=000066)
+![Express](https://img.shields.io/badge/Infinity_Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&color=000066)
+![NestJS](https://img.shields.io/badge/Reversed_NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=000066)
 
-### 👁️ FORBIDDEN GRIMOIRES
-![MongoDB](https://img.shields.io/badge/MongoDB_Dimensional_Storage-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Necronomicon-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=black)
+### 👁️ CURSED TECHNIQUES
+![MongoDB](https://img.shields.io/badge/Infinite_MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=000066)
+![PostgreSQL](https://img.shields.io/badge/Hollow_PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=000066)
 
 </div>
 
-## 𖤐 COSMIC ACHIEVEMENTS
+## 💜 DOMAIN ACHIEVEMENTS
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvishkaGihan&theme=darkhub&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="SACRIFICIAL OFFERINGS 𖤐" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AvishkaGihan&theme=algolia&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="INFINITY TROPHIES ✨" />
 </div>
 
-## ⛧ DESTRUCTION METRICS
+## ✨ POWER STATISTICS
 <div align="center">
   <table>
     <tr>
       <td>
-        <img width="2000px" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=black-ice&hide_border=true&background=000000">
+        <img width="2000px" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=tokyonight&hide_border=true&background=000000">
       </td>
     </tr>
   </table>
 </div>
 
-## 🌀 ELDRITCH POWERS
+## 🔵 LIMITLESS ABILITIES
 ```css
-⛧ Can summon working code from the void by sacrificing interns
-👁️ Debugs by staring into parallel dimensions
-𖤐 Centers divs by warping spacetime
-🌌 Deploys to production during blood moons
-💀 Has consumed the souls of 1000 Stack Overflow users
+✨ Reverses bad code with Infinity
+👁️ Debugs with Six Eyes precision
+💜 Deploys with Hollow Purple
+🔵 Maintains infinite uptime
+💫 Has never met a bug he couldn't fix
 ```
 
-## 🎭 SUMMON THE ANCIENT ONE
+## 🎭 SUMMON THE STRONGEST
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/OPEN_THE_PORTAL_TO_MADNESS_👁️-800000?style=for-the-badge&logo=About.me&logoColor=white)](http://avishkagihan.me)
-[![LinkedIn](https://img.shields.io/badge/JOIN_THE_CULT_OF_CODE_⛧-800000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishkagihan)
-[![GitHub](https://img.shields.io/badge/READ_THE_FORBIDDEN_SCROLLS_𖤐-800000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvishkaGihan)
-[![Gmail](https://img.shields.io/badge/PERFORM_THE_SUMMONING_RITUAL_💀-800000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishkag18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/ENTER_THE_DOMAIN_EXPANSION_🔵-000066?style=for-the-badge&logo=About.me&logoColor=white)](http://avishkagihan.me)
+[![LinkedIn](https://img.shields.io/badge/JOIN_THE_STRONGEST_✨-000066?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishkagihan)
+[![GitHub](https://img.shields.io/badge/WITNESS_INFINITE_VOID_💜-000066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvishkaGihan)
+[![Gmail](https://img.shields.io/badge/SUMMON_THE_STRONGEST_👁️-000066?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishkag18@gmail.com)
 
 </div>
 
@@ -105,21 +100,21 @@ class CosmicHorror extends ElderGod {
 <div align="center">
   
 ```
-C̷H̷A̶N̶N̷E̶L̶I̵N̴G̷ ̵T̵H̵E̶ ̶V̴O̵I̷D̶.̴.̷.̴
+E̶X̷P̶A̷N̶D̷I̷N̶G̷ ̶D̷O̴M̷A̶I̵N̶.̵.̶.̶
 ```
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvishkaGihan&theme=redical&hide_border=true&background=000000&color=800000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvishkaGihan&theme=react-dark&hide_border=true&background=000000&color=0051ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```
-M̸O̶R̵T̶A̶L̷S̶ ̶C̵O̸N̶S̵U̷M̴E̷D̷.̷e̴x̷e̵
+U̶N̶L̶I̷M̶I̵T̶E̷D̶ ̶V̷O̴I̵D̷.̷e̶x̷e̶
 ```
   
-![Profile Views](https://komarev.com/ghpvc/?username=AvishkaGihan&color=800000&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AvishkaGihan&color=0051ff&style=for-the-badge)
 
 ---
 
-<img src="https://readme-jokes.vercel.app/api?theme=synthwave" alt="Scrolls of Madness" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Scrolls of Infinity" />
 
-*"When reality burns: git commit -m 'The Old Ones have awakened', git push --force origin reality, git ascend"* 👁️
+*"Throughout Heaven and Earth, I alone am the honored one"* 🔵
 
 </div>
