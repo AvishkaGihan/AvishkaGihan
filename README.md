@@ -2,15 +2,34 @@
 
 ![Ninja Banner](./ninja-banner.svg)
 
-<!-- Naruto-themed header decorations -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EA580C&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%E2%9A%A1+Welcome+to+my+Hidden+Leaf+Repository+%E2%9A%A1;%F0%9F%8D%A5+Believe+it!+%E2%80%94+Dattebayo!+%F0%9F%8D%A5" alt="Typing SVG" />
-
+<br/>
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Secret_Archive-ea580c?style=for-the-badge&labelColor=0c0c0e)](https://avishkagihan.me/)
-[![Email](https://img.shields.io/badge/📫_Email-Messenger_Bird-ea580c?style=for-the-badge&labelColor=0c0c0e)](mailto:avishkag18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🤝_LinkedIn-Alliance_Network-ea580c?style=for-the-badge&labelColor=0c0c0e)](https://www.linkedin.com/in/avishkagihan)
-[![GitHub](https://img.shields.io/badge/⚔️_GitHub-Code_Archive-ea580c?style=for-the-badge&labelColor=0c0c0e)](https://github.com/AvishkaGihan)
+<!-- Naruto-themed header decorations -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=EA580C&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=%E2%9A%A1+Welcome+to+my+Hidden+Leaf+Repository+%E2%9A%A1;%F0%9F%8D%A5+Believe+it!+%E2%80%94+Dattebayo!+%F0%9F%8D%A5" alt="Typing SVG" />
+
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://avishkagihan.me/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/🌐_Portfolio-Secret_Archive-ea580c?style=for-the-badge&labelColor=0c0c0e" />
+  </a>
+  &nbsp;
+  <a href="mailto:avishkag18@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/📫_Email-Messenger_Bird-ea580c?style=for-the-badge&labelColor=0c0c0e" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/avishkagihan">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/🤝_LinkedIn-Alliance_Network-ea580c?style=for-the-badge&labelColor=0c0c0e" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AvishkaGihan">
+    <img alt="GitHub" src="https://img.shields.io/badge/⚔️_GitHub-Code_Archive-ea580c?style=for-the-badge&labelColor=0c0c0e" />
+  </a>
+</p>
 
 </div>
 
