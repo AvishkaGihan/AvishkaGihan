@@ -111,8 +111,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AvishkaGihan&show_icons=true&count_private=true&title_color=ea580c&text_color=d4d4d8&icon_color=38bdf8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaGihan&layout=compact&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="Top Languages" height="180"/>
+<img src="./assets/metrics.svg" alt="Ninja Mission Metrics" width="900"/>
 
 <br/>
 
@@ -127,17 +126,17 @@
 <div align="center">
 
 <a href="https://github.com/AvishkaGihan/voicemock-ai-interview">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=voicemock-ai-interview&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="VoiceMock AI"/>
+  <img src="./assets/repo-voicemock-ai-interview.svg" alt="VoiceMock AI" width="460"/>
 </a>
 <a href="https://github.com/AvishkaGihan/snaplog-ai-vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=snaplog-ai-vision&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="SnapLog AI"/>
+  <img src="./assets/repo-snaplog-ai-vision.svg" alt="SnapLog AI" width="460"/>
 </a>
 
 <a href="https://github.com/AvishkaGihan/mentor-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=mentor-app&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="Mentor App"/>
+  <img src="./assets/repo-mentor-app.svg" alt="Mentor App" width="460"/>
 </a>
 <a href="https://github.com/AvishkaGihan/lumina-prompt-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=lumina-prompt-platform&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="Lumina Platform"/>
+  <img src="./assets/repo-lumina-prompt-platform.svg" alt="Lumina Platform" width="460"/>
 </a>
 
 </div>
