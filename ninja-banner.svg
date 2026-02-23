@@ -1,123 +1,191 @@
-<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+﻿<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Modified background gradient for better contrast -->
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0A0A0A;stop-opacity:1" />
-      <stop offset="25%" style="stop-color:#1A1A1A;stop-opacity:0.95" />
-      <stop offset="50%" style="stop-color:#2C1810;stop-opacity:0.9" />
-      <stop offset="75%" style="stop-color:#1A1A1A;stop-opacity:0.95" />
-      <stop offset="100%" style="stop-color:#0A0A0A;stop-opacity:1" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0c0e"/>
+      <stop offset="30%" stop-color="#1a0d0a"/>
+      <stop offset="50%" stop-color="#1f1108"/>
+      <stop offset="70%" stop-color="#1a0d0a"/>
+      <stop offset="100%" stop-color="#0c0c0e"/>
     </linearGradient>
-    
-    <!-- Refined glow effect -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
 
-    <!-- Enhanced glow for text -->
-    <filter id="textGlow">
-      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6b00"/>
+      <stop offset="50%" stop-color="#ffb347"/>
+      <stop offset="100%" stop-color="#ff6b00"/>
+    </linearGradient>
 
-    <!-- Particle effect -->
-    <radialGradient id="particleGrad">
-      <stop offset="0%" stop-color="#FFA500"/>
-      <stop offset="100%" stop-color="#FFA500" stop-opacity="0"/>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#ffd4a8"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="chakraGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Kunai definition -->
-    <symbol id="kunai" viewBox="0 0 40 0">
-      <path d="M0,5 L30,5 L40,0 L30,5 L40,10 L30,5" fill="#E0E0E0"/>
-    </symbol>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="bigGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Shuriken Symbol -->
+    <g id="shuriken">
+      <path d="M0,-18 C5,-5 5,-5 18,0 C5,5 5,5 0,18 C-5,5 -5,5 -18,0 C-5,-5 -5,-5 0,-18Z" fill="#ea580c"/>
+      <path d="M0,-13 C-4,-4 -4,-4 -13,0 C-4,4 -4,4 0,13 C4,4 4,4 13,0 C4,-4 4,-4 0,-13Z" fill="#c2410c"/>
+      <circle r="4" fill="#0c0c0e"/>
+      <circle r="2.5" fill="none" stroke="#ea580c" stroke-width="0.5"/>
+    </g>
+
+    <!-- Kunai Symbol -->
+    <g id="kunai">
+      <path d="M0,-30 L6,0 L0,8 L-6,0Z" fill="#d4d4d8"/>
+      <line x1="0" y1="-30" x2="0" y2="8" stroke="#a1a1aa" stroke-width="0.5"/>
+      <rect x="-3" y="8" width="6" height="18" rx="1" fill="#78350f"/>
+      <path d="M-3,11 L3,13 M-3,16 L3,18 M-3,21 L3,23" stroke="#fafaf9" stroke-width="0.5"/>
+      <circle cy="30" r="5" fill="none" stroke="#d4d4d8" stroke-width="1.5"/>
+    </g>
+
+    <!-- Konoha Leaf Symbol (simplified) -->
+    <g id="konoha">
+      <path d="M0,-40 C12,-30 20,-15 20,0 C20,20 10,35 0,40 C-10,35 -20,20 -20,0 C-20,-15 -12,-30 0,-40Z" fill="none" stroke="currentColor" stroke-width="1.8"/>
+      <path d="M0,-28 L0,28 M-14,0 L14,0 M-10,-20 L10,20 M10,-20 L-10,20" stroke="currentColor" stroke-width="0.8" opacity="0.6"/>
+      <circle r="6" fill="none" stroke="currentColor" stroke-width="1.2"/>
+    </g>
+
+    <!-- Spiral (Uzumaki) -->
+    <g id="uzumaki-spiral">
+      <path d="M0,0 C0,-8 8,-8 8,0 C8,12 -12,12 -12,0 C-12,-16 16,-16 16,0 C16,20 -20,20 -20,0 C-20,-24 24,-24 24,0" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    </g>
   </defs>
 
   <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#bgGradient)">
-    <animate attributeName="opacity" values="0.95;1;0.95" dur="3s" repeatCount="indefinite"/>
+  <rect width="900" height="300" fill="url(#bg)" rx="14"/>
+
+  <!-- Outer border glow -->
+  <rect width="896" height="296" x="2" y="2" fill="none" stroke="#ea580c" stroke-width="1.5" rx="13" opacity="0.2">
+    <animate attributeName="opacity" values="0.15;0.3;0.15" dur="4s" repeatCount="indefinite"/>
   </rect>
+  <rect width="892" height="292" x="4" y="4" fill="none" stroke="#f97316" stroke-width="0.5" rx="12" opacity="0.1"/>
 
-  <!-- Decorative lines -->
-  <path d="M0,20 L800,20" stroke="#FFA500" stroke-width="0.5" opacity="0.2">
-    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2s" repeatCount="indefinite"/>
-  </path>
-  <path d="M0,180 L800,180" stroke="#FFA500" stroke-width="0.5" opacity="0.2">
-    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2s" repeatCount="indefinite"/>
-  </path>
+  <!-- Background Kanji watermark -->
+  <text x="450" y="175" font-family="serif" font-size="220" font-weight="bold" fill="#ea580c" opacity="0.04" text-anchor="middle" dominant-baseline="middle">忍</text>
+  <text x="200" y="250" font-family="serif" font-size="80" fill="#ea580c" opacity="0.025" text-anchor="middle">火</text>
+  <text x="700" y="90" font-family="serif" font-size="80" fill="#ea580c" opacity="0.025" text-anchor="middle">影</text>
 
-  <!-- Ninja stars with enhanced visibility -->
+  <!-- Konoha symbol - left -->
+  <g transform="translate(70, 150) scale(0.7)" color="#ea580c" opacity="0.15" filter="url(#softGlow)">
+    <use href="#konoha"/>
+  </g>
+
+  <!-- Konoha symbol - right -->
+  <g transform="translate(830, 150) scale(0.7)" color="#ea580c" opacity="0.15" filter="url(#softGlow)">
+    <use href="#konoha"/>
+  </g>
+
+  <!-- Uzumaki Spiral - left accent -->
+  <g transform="translate(140, 150) scale(0.6)" color="#f97316" opacity="0.2" filter="url(#softGlow)">
+    <use href="#uzumaki-spiral"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 140 150" to="360 140 150" dur="20s" repeatCount="indefinite" additive="sum"/>
+  </g>
+
+  <!-- Uzumaki Spiral - right accent -->
+  <g transform="translate(760, 150) scale(0.6)" color="#f97316" opacity="0.2" filter="url(#softGlow)">
+    <use href="#uzumaki-spiral"/>
+    <animateTransform attributeName="transform" type="rotate" from="360 760 150" to="0 760 150" dur="20s" repeatCount="indefinite" additive="sum"/>
+  </g>
+
+  <!-- Decorative top/bottom lines -->
+  <rect x="120" y="50" width="660" height="1" fill="url(#barGrad)" opacity="0.4"/>
+  <rect x="120" y="250" width="660" height="1" fill="url(#barGrad)" opacity="0.4"/>
+
+  <!-- Animated spinning shurikens -->
   <g filter="url(#glow)">
-    <!-- Star 1 -->
-    <path d="M50,50 l15,-15 l15,15 l-15,15 z M50,50 l0,-21 l30,21 l-30,0 z" fill="#FFA500">
-      <animateTransform attributeName="transform" type="rotate" 
-        from="0 65 65" to="360 65 65" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.6;0.8;0.6" dur="2s" repeatCount="indefinite"/>
-    </path>
-    
-    <!-- Star 2 -->
-    <path d="M700,150 l15,-15 l15,15 l-15,15 z M700,150 l0,-21 l30,21 l-30,0 z" fill="#FFA500">
-      <animateTransform attributeName="transform" type="rotate" 
-        from="360 715 165" to="0 715 165" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.8;0.6;0.8" dur="2s" repeatCount="indefinite"/>
-    </path>
+    <g transform="translate(100, 60)">
+      <use href="#shuriken" opacity="0.7">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+      </use>
+    </g>
+    <g transform="translate(800, 240)">
+      <use href="#shuriken" opacity="0.7">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="5s" repeatCount="indefinite"/>
+      </use>
+    </g>
+    <g transform="translate(810, 60)">
+      <use href="#shuriken" opacity="0.4" transform="scale(0.6)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite"/>
+      </use>
+    </g>
+    <g transform="translate(90, 240)">
+      <use href="#shuriken" opacity="0.4" transform="scale(0.6)">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="3.5s" repeatCount="indefinite"/>
+      </use>
+    </g>
   </g>
 
-  <!-- Flying kunai -->
-  <use href="#kunai" x="650" y="40" width="40" height="10">
-    <animateTransform attributeName="transform" type="translate"
-      values="-700,0; 0,0; -700,0" dur="3s" repeatCount="indefinite"/>
-  </use>
-
-  <!-- Decorative kanji symbols with improved visibility -->
-  <text x="50" y="100" font-family="Arial, sans-serif" font-size="24" fill="#FFA500" opacity="0.5" filter="url(#textGlow)">
-    忍
-    <animate attributeName="opacity" values="0.4;0.6;0.4" dur="4s" repeatCount="indefinite"/>
-  </text>
-  <text x="730" y="100" font-family="Arial, sans-serif" font-size="24" fill="#FFA500" opacity="0.5" filter="url(#textGlow)">
-    道
-    <animate attributeName="opacity" values="0.6;0.4;0.6" dur="4s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Main title with improved readability -->
-  <g filter="url(#textGlow)">
-    <!-- Text shadow for better contrast -->
-    <text x="400" y="80" font-family="Arial, sans-serif" font-size="48" fill="#000000" text-anchor="middle" opacity="0.5">
-      忍者 Developer: Avishka Gihan
-    </text>
-    <!-- Main text -->
-    <text x="400" y="80" font-family="Arial, sans-serif" font-size="48" fill="#FFD700" text-anchor="middle">
-      忍者 Developer: Avishka Gihan
-      <animate attributeName="fill" values="#FFD700;#FFA500;#FFD700" dur="4s" repeatCount="indefinite"/>
-    </text>
+  <!-- Kunai decorations -->
+  <g transform="translate(160, 70) rotate(135)" opacity="0.35">
+    <use href="#kunai" transform="scale(0.55)"/>
+  </g>
+  <g transform="translate(740, 230) rotate(-45)" opacity="0.35">
+    <use href="#kunai" transform="scale(0.55)"/>
   </g>
 
-  <!-- Subtitle with improved contrast -->
-  <g filter="url(#textGlow)">
-    <!-- Text shadow -->
-    <text x="400" y="120" font-family="Arial, sans-serif" font-size="24" fill="#000000" text-anchor="middle" opacity="0.5">
-      The Way of the Full Stack Shinobi
-    </text>
-    <!-- Main text -->
-    <text x="400" y="120" font-family="Arial, sans-serif" font-size="24" fill="#FFFFFF" text-anchor="middle">
-      The Way of the Full Stack Shinobi
-      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </g>
-
-  <!-- Energy particles with reduced opacity -->
-  <circle cx="100" cy="100" r="2" fill="url(#particleGrad)" opacity="0.4">
-    <animate attributeName="cx" values="0;800;0" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="100;50;100" dur="3s" repeatCount="indefinite"/>
+  <!-- Chakra orbs -->
+  <circle cx="170" cy="150" r="20" fill="url(#chakraGlow)">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="700" cy="100" r="2" fill="url(#particleGrad)" opacity="0.4">
-    <animate attributeName="cx" values="800;0;800" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="100;150;100" dur="4s" repeatCount="indefinite"/>
+  <circle cx="730" cy="150" r="20" fill="url(#chakraGlow)">
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="3s" repeatCount="indefinite"/>
   </circle>
+  <circle cx="170" cy="150" r="3" fill="#38bdf8" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="730" cy="150" r="3" fill="#38bdf8" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Accent lines flanking text -->
+  <line x1="200" y1="150" x2="290" y2="150" stroke="#ea580c" stroke-width="2" stroke-linecap="round" filter="url(#softGlow)" opacity="0.6"/>
+  <line x1="610" y1="150" x2="700" y2="150" stroke="#ea580c" stroke-width="2" stroke-linecap="round" filter="url(#softGlow)" opacity="0.6"/>
+
+  <!-- Main Content -->
+  <g text-anchor="middle">
+    <!-- Name with gradient -->
+    <text x="450" y="125" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="900" fill="url(#nameGrad)" letter-spacing="5" filter="url(#softGlow)">AVISHKA GIHAN</text>
+
+    <!-- Title -->
+    <text x="450" y="175" font-family="'Courier New', 'Fira Code', monospace" font-size="22" font-weight="bold" fill="url(#titleGrad)" letter-spacing="5" filter="url(#glow)">AI-FIRST FULL STACK ENGINEER</text>
+
+    <!-- Nindo quote -->
+    <text x="450" y="220" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-style="italic" fill="#78716c" letter-spacing="1.5">"I will become the greatest shinobi of the digital age — that is my nindo!"</text>
+
+    <!-- Small decorative kanji on sides of quote -->
+    <text x="210" y="222" font-family="serif" font-size="14" fill="#ea580c" opacity="0.3">火</text>
+    <text x="690" y="222" font-family="serif" font-size="14" fill="#ea580c" opacity="0.3">影</text>
+  </g>
+
+  <!-- Bottom decorative dots -->
+  <circle cx="420" cy="265" r="2" fill="#ea580c" opacity="0.4"/>
+  <circle cx="435" cy="265" r="2" fill="#f97316" opacity="0.5"/>
+  <circle cx="450" cy="265" r="3" fill="#fb923c" opacity="0.6"/>
+  <circle cx="465" cy="265" r="2" fill="#f97316" opacity="0.5"/>
+  <circle cx="480" cy="265" r="2" fill="#ea580c" opacity="0.4"/>
 </svg>
