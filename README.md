@@ -111,12 +111,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AvishkaGihan&show_icons=true&count_private=true&title_color=ea580c&text_color=d4d4d8&icon_color=38bdf8&bg_color=0c0c0e&hide_border=true&border_radius=12" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaGihan&layout=compact&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AvishkaGihan&show_icons=true&count_private=true&title_color=ea580c&text_color=d4d4d8&icon_color=38bdf8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaGihan&layout=compact&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="Top Languages" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaGihan&theme=dark&background=0c0c0e&ring=ea580c&fire=f97316&currStreakLabel=f97316&sideLabels=d4d4d8&currStreakNum=d4d4d8&sideNums=d4d4d8&dates=78716c&hide_border=true&border_radius=12" alt="GitHub Streak" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=AvishkaGihan&theme=dark&background=0c0c0e&ring=ea580c&fire=f97316&currStreakLabel=f97316&sideLabels=d4d4d8&currStreakNum=d4d4d8&sideNums=d4d4d8&dates=78716c&hide_border=true&border_radius=12" alt="GitHub Streak" height="180"/>
 
 </div>
 
@@ -127,17 +127,17 @@
 <div align="center">
 
 <a href="https://github.com/AvishkaGihan/voicemock-ai-interview">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=voicemock-ai-interview&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12" alt="VoiceMock AI"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=voicemock-ai-interview&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="VoiceMock AI"/>
 </a>
 <a href="https://github.com/AvishkaGihan/snaplog-ai-vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=snaplog-ai-vision&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12" alt="SnapLog AI"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=snaplog-ai-vision&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="SnapLog AI"/>
 </a>
 
 <a href="https://github.com/AvishkaGihan/mentor-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=mentor-app&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12" alt="Mentor App"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=mentor-app&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="Mentor App"/>
 </a>
 <a href="https://github.com/AvishkaGihan/lumina-prompt-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=lumina-prompt-platform&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12" alt="Lumina Platform"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaGihan&repo=lumina-prompt-platform&icon_color=38bdf8&title_color=ea580c&text_color=d4d4d8&bg_color=0c0c0e&hide_border=true&border_radius=12&cache_seconds=86400" alt="Lumina Platform"/>
 </a>
 
 </div>
@@ -148,7 +148,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AvishkaGihan/AvishkaGihan/output/github-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvishkaGihan/AvishkaGihan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvishkaGihan/AvishkaGihan/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AvishkaGihan/AvishkaGihan/output/github-snake.svg" />
+</picture>
 
 </div>
 
